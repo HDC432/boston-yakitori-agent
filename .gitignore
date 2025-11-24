@@ -1,0 +1,17 @@
+# Env
+.env
+.env.*
+*.env
+
+# Deno
+deno.lock
+
+# Node
+node_modules
+
+# Editor
+.vscode/
+.idea/
+
+# macOS
+.DS_Store

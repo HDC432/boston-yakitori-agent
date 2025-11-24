@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "@corespeed/zypher": "jsr:@corespeed/zypher",
+    "rxjs-for-await": "npm:rxjs-for-await",
+    "std/dotenv": "https://deno.land/std@0.224.0/dotenv/mod.ts"
+  },
+  "compilerOptions": {
+    "strict": true
+  }
+}
